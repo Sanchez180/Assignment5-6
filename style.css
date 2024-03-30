@@ -1,0 +1,55 @@
+/* insert the style for the jumbotron here */
+#jumbotron{
+    padding: 10px; display:flex;  
+    background-color: #37517E;
+    height: 140px;width: 100%;
+    color: white;
+}
+
+/* insert the style for the container here */
+.container{
+    padding: 10px;
+     height: 100px;
+     width: 100%;
+     color: black;
+}
+
+/* insert the style for the car1 here */
+.car1{
+    padding: 10px;
+     display:flex;  
+     height: 100px;
+     width: 100%;
+     color: black;
+}
+
+/* insert the style for the care11 here */
+.car11{
+    padding: 10px;
+    background-color:#37517E ; 
+    display:flex;  
+    color: white;
+}
+
+/* insert the style for the select1 here */
+.select1{
+    width: 164px;
+    padding: 10px;
+    background-color:#37517E ;
+     display:flex ;
+     color: white;
+}
+
+/* insert the style for the submit here */
+#submit{
+    height: 50px;
+    color: white;
+    border-radius: 42px;
+    width: 178px;
+    background-color: #37517E;
+}
+
+/* insert the style for the img here */
+img{
+    margin-left:200px ;
+}
